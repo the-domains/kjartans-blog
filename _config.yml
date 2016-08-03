@@ -1,0 +1,14 @@
+layout_spectrum: 0.06245852750726044
+typography_spectrum: 0.16005607252009213
+color:
+  brandStrength: 0.7085589952766895
+  lightness: 0.32905713305808604
+  saturation: 0.07076110946945846
+  rhythmicContrast: 0.8032721658237278
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Kjartan's Blog
